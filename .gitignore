@@ -1,0 +1,8 @@
+.DS_Store
+computer-vision-318113-e19a9e8f48cd.json
+bot-token.txt
+*.pyc
+env/
+files/*
+.idea/
+!.gitkeep
